@@ -1,0 +1,9 @@
+{
+  "name": "Rare Runner",
+  "consumable": "Unused placeholder pass",
+  "price": "1000000000000000000",
+  "outcomes": [
+    { "name": "Unused placeholder (no reward)", "chanceBps": 5000, "reward": "0" },
+    { "name": "Unused placeholder (prize)", "chanceBps": 5000, "reward": "1000000000000000000" }
+  ]
+}
