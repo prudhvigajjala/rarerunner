@@ -1,0 +1,2 @@
+/.friendsdk/game.html
+  Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' blob: data: https://*.cloudfront.net; connect-src 'self' https://*.netlify.app; frame-src 'self'; font-src 'self'
