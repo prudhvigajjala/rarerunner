@@ -1,5 +1,7 @@
 # Rare Runner
 
+Play here : https://rarerunner.netlify.app/
+
 An endless runner for the Rare Friends Vibeathon, built for FriendSDK v0.1.x. Your selected Rare Friend runs down three lanes, jumping low barriers, sliding under high bars and dodging blocked lanes. One hit ends the run.
 
 ## Controls
